@@ -14,7 +14,7 @@ API_KEY = "AQ.Ab8RN6LeLTRr3l3itB0TM2GOejkkQq1h-Bw7vsnPT2EnAQX3XA"
 genai.configure(api_key=API_KEY)
 
 model = genai.GenerativeModel(
-    "gemini-2.5-flash"
+    "gemini-3.5-flash"
 )
 # ======================
 # Extract Resume Text  
