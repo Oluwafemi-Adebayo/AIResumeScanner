@@ -9,7 +9,7 @@ from docx import Document
 # ======================
 # Set API KEY
 
-API_KEY = "AQ.Ab8RN6LTHVHUFvfuXgPHrBXxsSebsiE3GDskh-9OXyxS63BXPw"
+API_KEY = "AQ.Ab8RN6KQ4-4a3eq37JP41XlaeLM4KU0AZa1E6oAN_9ZVslIQ-Q"
 
 genai.configure(api_key=API_KEY)
 
